@@ -12,3 +12,5 @@
 1.  Preheat oven to 350 degrees F (175 degrees C).
 2.   Mix sugar and cocoa together. Beat the eggs then add to the cocoa mixture. Beat in the milk, butter and vanilla.
 3.   Pour mixture into 9 inch unbaked pie shell and bake at 350 degrees F (175 degrees C) for 45 minutes or until set. Let cool before slicing.
+## Serving Suggestion
+Eat. It. All.
