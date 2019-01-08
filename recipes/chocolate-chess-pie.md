@@ -1,7 +1,7 @@
-# Chocolate Chess Pie
+# Chocolate Chess Pi
 ## Ingredients
 * 1 1/2 cups white sugar
-* 3 tablespoons unsweetened cocoa powder
+* 3.14 tablespoons unsweetened cocoa powder
 * 2 eggs
 * 1 (5 ounce) can evaporated milk
 * 1/4 cup melted butter
